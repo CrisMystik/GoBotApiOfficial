@@ -60,11 +60,6 @@ go get -u github.com/GoBotApiOfficial/gobotapi
 
 <hr>
 <p align="center">
-    <a href="https://github.com/GoBotApiOfficial/GoBotApiGenerator">
-        <img width="300px" src=".github/static/logo2.svg" alt="gopher logo" />
-    </a>
-    <br>
-    <br>
     <a href="https://github.com/GoBotApiOfficial/GoBotApiCompiler/releases">
         Releases
     </a>
